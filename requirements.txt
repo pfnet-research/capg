@@ -1,0 +1,3 @@
+chainer==4.1.0
+git+git://github.com/chainer/chainerrl.git@bad57aa02bc7fd77bb91e019206afa12c3b52505
+gym[mujoco]==0.9.4
