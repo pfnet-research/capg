@@ -35,7 +35,7 @@ The figure below shows average returns of training episodes of TRPO with PG and 
 
 ```
 @inproceedings{Fujita2018Clipped,
-  author = {Fujita, Yasuhiro and Shin-ichi, Maeda},
+  author = {Fujita, Yasuhiro and Maeda, Shin-ichi},
   booktitle = {ICML},
   title = {{Clipped Action Policy Gradient}}
   year = {2018}
